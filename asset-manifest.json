@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/React-RMDB/static/js/main.df9ad904.chunk.js",
+    "main.js.map": "/React-RMDB/static/js/main.df9ad904.chunk.js.map",
+    "runtime-main.js": "/React-RMDB/static/js/runtime-main.e81f9dee.js",
+    "runtime-main.js.map": "/React-RMDB/static/js/runtime-main.e81f9dee.js.map",
+    "static/js/2.32fd5d03.chunk.js": "/React-RMDB/static/js/2.32fd5d03.chunk.js",
+    "static/js/2.32fd5d03.chunk.js.map": "/React-RMDB/static/js/2.32fd5d03.chunk.js.map",
+    "index.html": "/React-RMDB/index.html",
+    "static/js/2.32fd5d03.chunk.js.LICENSE.txt": "/React-RMDB/static/js/2.32fd5d03.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/React-RMDB/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.42955eb6.svg": "/React-RMDB/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/React-RMDB/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/React-RMDB/static/media/tmdb_logo.f15b6632.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81f9dee.js",
+    "static/js/2.32fd5d03.chunk.js",
+    "static/js/main.df9ad904.chunk.js"
+  ]
+}
